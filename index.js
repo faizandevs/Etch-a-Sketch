@@ -36,3 +36,4 @@ rangeInput.addEventListener('input', () => {
     rangeValue.textContent = gridSize; // Update the displayed value
     createGrid(gridSize); // Create a new grid based on the current value
 });
+
